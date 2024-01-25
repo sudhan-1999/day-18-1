@@ -1,0 +1,19 @@
+body{
+    background-color: rgba(123, 190, 174, 0.252);
+}
+.main{
+    margin:60px 0px 0px 200px ;
+
+}
+#btn{
+    margin-left: 50px;
+    background-color: rgb(255, 255, 255);
+    box-shadow: 2px 2px 4px rgb(196, 150, 80);
+}
+.int{
+    width:250px;
+}
+.info{
+    margin:50px 0 0 200px;
+    font-size: 30px;
+}
